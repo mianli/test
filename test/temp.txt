@@ -7,3 +7,5 @@ git log
 
 git commit -amend
 
+
+git push
