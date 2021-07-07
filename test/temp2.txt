@@ -2,4 +2,9 @@ modify
 forgotten-file
 m
 
-啊
+git checkout -d bt origin/master
+
+
+discard
+
+dasd
