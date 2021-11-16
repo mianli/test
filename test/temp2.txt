@@ -8,3 +8,5 @@ git checkout -d bt origin/master
 discard
 
 dasd
+
+new 
